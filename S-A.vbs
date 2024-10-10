@@ -1,0 +1,1 @@
+MsgBox "Succes Install `launch discorx for zip`", vbInformation, "Discorx.cmd"

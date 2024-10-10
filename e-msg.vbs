@@ -1,0 +1,5 @@
+MsgBox "Le chemin n'a pas etais reconnu", vbInformation, "Windows CMD"
+MsgBox "close and reload", vbInformation, "Windows CMD"
+MsgBox "require: GIT", vbInformation, "Windows CMD"
+MsgBox "require: Python", vbInformation, "Windows CMD"
+MsgBox "requie: off anti-virus", vbInformation, "Windows CMD"
